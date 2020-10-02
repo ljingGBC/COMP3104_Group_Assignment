@@ -1,0 +1,4 @@
+<!DOCTYPE HTML>
+	<h1>DevOps</h1>
+	<p>DevOps course is designed to prepare students in entering the IT field where servers, web apps and infrastructure are core to the business needs. Providing hands-on experience through the implementation of DevOps technologies.</p>
+<html>
