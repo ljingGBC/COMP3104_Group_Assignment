@@ -6,3 +6,10 @@ Course Code: COMP 3104
 Course Section: All
 Academic Year 2020-2021
 Term Fall 2020
+
+Recommended Resources:
+https://github.com
+https://docker.com/
+https://travis-ci.com
+https://kubernetes.io
+https://www.sonarqube.org
