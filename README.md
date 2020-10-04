@@ -3,8 +3,8 @@
 
 #### Group 11 Members: 
 
-*Lei Jing  101217272
+*Lei Jing                    101217272
 
-*Jes Ronne Charisse Muli  101214794
+*Jes Ronne Charisse Muli     101214794
 
-*Jiangdong Li 101131333
+*Jiangdong Li                101131333
